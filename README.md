@@ -1,11 +1,8 @@
-# Comprehensive-Sales-Analytics-PowerBI
-Sales Performance Dashboard is an interactive Power BI dashboard built to transform raw sales data into actionable business insights. It provides interactive visualizations for revenue, profitability, customer performance, product trends, and regional analysis, enabling data-driven decision making.
-
 # Sales Performance Dashboard
 
 ## Overview
 
-Sales Performance Dashboard is an interactive Power BI dashboard built to transform raw sales data into actionable business insights. It provides interactive visualizations for revenue, profitability, customer performance, product trends, and regional analysis, enabling data-driven decision making.
+This project showcases an interactive Power BI dashboard built to analyze sales performance across customers, products, and markets. The dashboard helps track key business metrics, identify performance trends, and compare revenue and profitability through interactive visualizations.
 
 ---
 
@@ -24,11 +21,11 @@ Sales Performance Dashboard is an interactive Power BI dashboard built to transf
 
 ## Key Features
 
-- Interactive KPI dashboard for Revenue, Sales Quantity, and Profit Margin.
-- Revenue and profit contribution analysis across multiple markets.
-- Customer and product performance analysis.
-- Dynamic year and month filters for trend exploration.
-- Executive dashboards supporting data-driven business decisions.
+- Revenue, Sales Quantity, and Profit Margin KPIs
+- Customer and product performance analysis
+- Revenue and profit contribution by market
+- Monthly and yearly trend analysis
+- Interactive filters and drill-down reports
 
 ---
 
@@ -41,18 +38,18 @@ Sales Performance Dashboard is an interactive Power BI dashboard built to transf
 
 ---
 
-## Business Insights
+## Key Insights
 
-- Identified high-performing markets and customers contributing the largest share of revenue.
-- Compared revenue and profit contribution to uncover profitable business segments.
-- Tracked revenue trends over time using interactive filters and KPI visualizations.
-- Enabled quick executive reporting through intuitive dashboards.
+- Compared revenue and profit contribution across different markets.
+- Identified top-performing customers and products.
+- Analyzed monthly sales trends using interactive filters.
+- Built dashboards to support business reporting and performance analysis.
 
 ---
 
 ## Repository Contents
 
-- `Comprehensive-Sales-Data-PBI.pbix` - Power BI dashboard
-- `Key Insights.png` - Executive dashboard
-- `Performance Insights.png` - Performance dashboard
-- `Profitability Analysis.png` - Profitability dashboard
+- `Comprehensive-Sales-Data-PBI.pbix` – Power BI dashboard
+- `Key Insights.png` – Executive dashboard
+- `Performance Insights.png` – Performance dashboard
+- `Profitability Analysis.png` – Profitability dashboard
