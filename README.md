@@ -1,4 +1,4 @@
-# Sales Performance Dashboard
+# Sales Analytics Dashboard
 
 ## Overview
 
